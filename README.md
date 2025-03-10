@@ -96,7 +96,7 @@ This IoT-based **Indoor Air Quality Monitoring System** helps maintain healthier
 
 📌 **Contributors 👥**: [SANDEEP , TUSHAR ,SHRIDHAR , I ]
 
-📌 **GitHub Repository 🔗**: [https://github.com/Manoj-H-A/Indoor-Air-Quality-Monitoring-System-/tree/main]
+📌 **GitHub Repository 🔗**: [https://github.com/Manoj-H-A?tab=repositories]
 
 #### hashtag#IoT hashtag#IndoorAirQuality hashtag#ESP32 hashtag#ThingSpeak hashtag#Python hashtag#SmartHome hashtag#TechForGood
 
